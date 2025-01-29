@@ -1,1 +1,1 @@
-Le but de ce projet est de proposer une solution Deep Learning pour détecter les ECG erronés dû à l'inversion d'électrodes durant l'examen.
+The aim of this project is to propose a Deep Learning solution to detect erroneous ECGs due to electrode inversion during the examination.
